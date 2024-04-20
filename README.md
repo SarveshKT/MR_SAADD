@@ -1,5 +1,4 @@
-# mobileRobotics_SAADD
-# Autonomous Evacuation Robot Project
+# Robot-aided Human Evacuation Optimal Path Planning for Fire Drill in Buildings
 
 ## Project Overview
 This repository contains the research and code for an innovative project aimed at improving the efficiency and safety of evacuations in high-rise buildings during emergencies using autonomous robots. The primary focus is to utilize robotics to reduce the need for human intervention by optimizing evacuation routes using advanced computational methods.
