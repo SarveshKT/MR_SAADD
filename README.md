@@ -12,8 +12,3 @@ Evacuating people in emergencies from high-rise buildings poses significant risk
 - **Moving Target TSP Algorithm:** Adapts the traditional Traveling Salesman Problem to consider the dynamic movement of evacuating individuals.
 - **Genetic Algorithm Optimization:** Utilizes genetic algorithms to optimize the evacuation path, improving overall evacuation efficiency.
 - **Simulation Validation:** The project includes simulation models that demonstrate the effectiveness of the robotic system in reducing travel distances during evacuations.
-
-## Installation
-To run the simulation and algorithm code provided in this repository, follow these steps:
-
-```bash
